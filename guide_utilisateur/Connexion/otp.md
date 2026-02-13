@@ -11,6 +11,8 @@ Ce guide présente les règles à suivre pour l’utilisation d’un code OTP (*
  
 ## 1. ⏱️ Durée de validité du code
 
+ahlalalala
+
 Une fois généré et envoyé, le code OTP reste **valable pendant 15 minutes**.
 
 Après ce délai :
